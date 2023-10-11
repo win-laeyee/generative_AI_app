@@ -4,6 +4,12 @@
 
 This README provides comprehensive information on a Generative AI application, powered by a fine-tuned Blenderbot model, which enables users to engage with the model through a Flask-based interface.
 
+<img width="450" alt="Question Form" src="https://github.com/win-laeyee/generative_AI_app/assets/97848295/07da9928-0128-4542-9b9f-c402b66293ea">
+<img width="450" alt="Response" src="https://github.com/win-laeyee/generative_AI_app/assets/97848295/43299895-64e4-4090-adb5-e79487f456f4">
+<img width="450" alt="Question and Answer History" src="https://github.com/win-laeyee/generative_AI_app/assets/97848295/68cf1754-cf7c-48a7-9c34-cc2234e8db80">
+
+
+
 ## Features
 
 The Generative AI application allows users to:
