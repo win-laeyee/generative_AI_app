@@ -92,3 +92,7 @@ The project is structured as follows:
       * `response.html`: An HTML template for displaying AI responses.
 * `README.md`
 * `requirements.txt`: Contains a list of Python packages and their respective versions that are required for your project to run correctly.
+
+
+## Documentation
+For more comprehensive documentation on architecture design, design choices, and engineering practices, please refer [here](https://docs.google.com/document/d/1YBopZn055Fed418FPz9w4b30oJbnpWNkgF0OLJWb2As/edit?usp=sharing).
